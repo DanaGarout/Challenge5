@@ -12,16 +12,61 @@ body{
     margin-left: -200px;
     background-color: #ECFDF5;
     width: 550px;
-    height: 550px;
+    height: 500px;
+    padding: 30px 20px;
 }
 .title{
     font-family: 'Karla';
-    font-weight: 800;
+    font-weight: bold;
     font-size: 40px;
     font-style: normal;
     letter-spacing: -0.05em;
-    color: #2B283A;;
+    color: #2B283A;
+    line-height: 40px;
+    margin-bottom: -10px;
 }
 span{
+    color:#10B981;
+}
+.subtitle{
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #6b7280;
     
+}
+#genrt{
+    padding: 8px 12px;
+    color: #ECFDF5;
+    background-color: #10B981;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.breaker{
+    border-bottom: 1px solid #d5d4d8;
+    width: 510px;
+    margin-top: 50px;
+}
+.random{
+    padding: 20px 50px;
+}
+
+.box{
+    
+    border-radius: 6px;
+    background: #273549;
+    width: 211px;
+    height: 39px;
+    color: #5DEF92;
+    font-size: 20px;
+    
+}
+#random1{
+    float: left;
+    
+    
+}
+#random2{
+    float: right;
 }
