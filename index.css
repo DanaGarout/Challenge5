@@ -60,13 +60,18 @@ span{
     height: 39px;
     color: #5DEF92;
     font-size: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
     
 }
 #random1{
     float: left;
     
     
+    
 }
 #random2{
     float: right;
+   
 }
